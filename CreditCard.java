@@ -1,3 +1,5 @@
+package StrategyPattern.example.strategies;
+
 public class CreditCard {
     private int amount;
     private String number;
