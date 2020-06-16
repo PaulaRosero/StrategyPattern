@@ -1,3 +1,6 @@
+package StrategyPattern.example.order;
+
+import StrategyPattern.example.strategies.PayStrategy;
 
 public class Order {
     private int totalCost = 0;
